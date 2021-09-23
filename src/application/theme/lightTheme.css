@@ -1,0 +1,52 @@
+.button {
+	-fx-background-color: blue;
+	-fx-font-size: 28;
+}
+
+.text-field{
+	-fx-prompt-text-fill: white;
+	-fx-background-color: blue;
+	-fx-alignment: center;
+	-fx-text-fill: white;
+}
+
+.jfx-text-field {
+	-jfx-focus-color: white;
+	-jfx-unfocus-color: blue;
+}
+
+.tool-bar:horizontal {
+	-fx-background-color: #D1D1D1;
+}
+
+.animated-option-button{
+	-fx-pref-width: 65px;
+	-fx-pref-height: 65px;
+	-fx-background-radius: 65px;
+	-fx-background-color: blue;
+	-fx-border-radius: 65px;
+	-fx-border-width: 0px;
+}
+
+.search-bar-font-size{
+	-fx-font-size: 15px;
+	-fx-font-weight: bold;
+}
+
+.icon-fill{
+	-fx-fill: white;
+}
+
+.root{
+	-fx-background-color: white;
+}
+
+.searchBox {
+	-fx-pref-width: 200px;
+	-fx-pref-height: 65px;
+	-fx-background-radius: 65px;
+	-fx-background-color: blue;
+	-fx-border-radius: 65px;
+	-fx-border-width: 0px;
+	-fx-padding: 20;
+}

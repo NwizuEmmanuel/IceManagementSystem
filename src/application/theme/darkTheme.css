@@ -1,0 +1,60 @@
+/*for buttons */
+.button {
+	-fx-background-color: blue;
+	-fx-font-size: 28;
+}
+
+/*for text field */
+.text-field{
+	-fx-prompt-text-fill: white;
+	-fx-background-color: #27292A;
+	-fx-alignment: center;
+	-fx-text-fill: white;
+}
+
+/*for text field */
+.jfx-text-field {
+	-jfx-focus-color: white;
+	-jfx-unfocus-color: #27292A;
+}
+
+/*for toolbar */
+.tool-bar:horizontal {
+	-fx-background-color: #3C3F41;
+}
+
+/*for button */
+.animated-option-button{
+	-fx-pref-width: 65px;
+	-fx-pref-height: 65px;
+	-fx-background-radius: 65px;
+	-fx-background-color: #27292A;
+	-fx-border-radius: 65px;
+	-fx-border-width: 0px;
+}
+
+/*managing font in text field */
+.search-bar-font-size{
+	-fx-font-size: 15px;
+	-fx-font-weight: bold;
+}
+
+/*for icons in buttons */
+.icon-fill{
+	-fx-fill: white;
+}
+
+/*For main scene */
+.root{
+	-fx-background-color: #2B2B2B;
+}
+
+.searchBox {
+	-fx-pref-width: 200px;
+	-fx-pref-height: 65px;
+	-fx-background-radius: 65px;
+	-fx-background-color: #3C3F41;
+	-fx-border-radius: 65px;
+	-fx-border-width: 0px;
+	-fx-padding: 20;
+}
